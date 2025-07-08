@@ -1,0 +1,30 @@
+## Bill Paying Checklist - MS Excel Project
+* This repository contains a practical and interactive Bill Paying Checklist built using Microsoft Excel. 
+* It's designed to help individuals and families manage their expenses, track bill payments, and foster financial discipline. 
+* This project simulates real-world bill management, preparing users for independent living.
+*This project is designed for practice in data organization and financial tracking, suitable for various academic levels and personal finance management.*
+
+## Features
+* Dashboard: Provides a quick overview of total amounts due/paid, upcoming bills, and overdue payments.
+* Bills Tracker: A comprehensive log for all bills, including categories, amounts, due dates, payment dates, and status.
+* Dynamic Status & Reminders: Automatically calculates "Days Until Due / Overdue" and uses conditional formatting to highlight bill statuses (Paid, Due, Overdue).
+* Data Validation: Ensures consistent data entry for categories, months, and payment statuses using dropdown lists.
+* Customizable Categories: Easily define and manage bill categories to suit personal or family needs.
+* Notes: A dedicated section for important financial notes or reminders.
+
+## How to Use
+* Download: Clone this repository or download the `Bill Paying Checklist.xlsx` file.
+* Open: Open the `.xlsx` file in Microsoft Excel (or compatible spreadsheet software).
+* Navigate: Use the sheet tabs at the bottom to switch between the Dashboard, Bills Tracker, Categories & Setup, and Notes.
+* Input Data:
+    * Start by reviewing and customizing the "Bill Categories" and "Payment Status" lists on the "Categories & Setup" sheet.
+    * Enter your bills into the "Bills Tracker" sheet. Use the dropdowns for "Month", "Bill Category", and "Status".
+    * Record the "Date Paid" once a bill is settled.
+    * Use the "Notes" sheet for any additional financial information.
+* Dashboard Overview: The "Dashboard" sheet will automatically update with key summaries based on your entries.
+
+## Technologies Used
+* Microsoft Excel
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
