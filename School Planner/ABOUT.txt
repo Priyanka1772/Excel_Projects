@@ -1,0 +1,29 @@
+## School Planner - MS Excel Project
+* This repository contains a simple, interactive school planner built using Microsoft Excel. 
+* It's designed to help students organize their academic life by tracking schedules, assignments, and exams.
+* This project is versatile and can be adapted for various academic institutions and personal use.
+
+## Features
+* Dashboard: Provides a quick overview of upcoming assignments, overdue tasks, and completed work.
+* Weekly Schedule: A customizable timetable for classes and activities.
+* Assignments Tracker: Log assignments with due dates, status (Not Started, In Progress, Completed, Overdue), and priority. Includes automatic calculation of "Days Left / Overdue".
+* Exams Tracker: Keep track of exam dates, times, and topics.
+* Notes: A simple section for general academic notes.
+* Dynamic Formulas & Conditional Formatting: Utilizes Excel formulas to automate calculations and conditional formatting for visual cues (e.g., highlighting overdue assignments, upcoming exams).
+
+## How to Use
+* Download: Clone this repository or download the `School_Planner.xlsx` file.
+* Open: Open the `.xlsx` file in Microsoft Excel (or compatible spreadsheet software).
+* Navigate: Use the sheet tabs at the bottom to switch between the Dashboard, Weekly Schedule, Assignments, Exams, and Notes.
+* Input Data:
+    * Fill in your weekly schedule on the "Weekly Schedule" sheet.
+    * Add your assignments to the "Assignments" sheet. Use the dropdowns for "Status" and "Priority".
+    * Enter your exam details on the "Exams" sheet.
+    * Use the "Notes" sheet for any additional information.
+* Dashboard Overview: The "Dashboard" sheet will automatically update with key summaries based on your entries.
+
+## Technologies Used
+* Microsoft Excel
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
