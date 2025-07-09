@@ -1,0 +1,30 @@
+## Daily Checklist Challenge - MS Excel Project
+* This repository features a dynamic and interactive Daily Checklist Challenge built using Microsoft Excel. 
+* It's designed to empower individuals to track their daily routines, cultivate positive habits, and visualize their progress towards personal goals. 
+* This project fosters self-reflection, time management, and a rewarding sense of accomplishment.
+*This project is adaptable for various age groups and academic levels, making it a versatile tool for personal development and a great demonstration of Excel proficiency.
+
+## Features
+* Dashboard: Provides an at-a-glance summary of overall habit completion and key metrics.
+* Daily Tracker: A dedicated sheet for logging daily activities and marking them as complete.
+* Customizable Habits: Easily define and manage a personalized list of habits (e.g., nutrition, exercise, reading, sleep).
+* Live Progress Bar: Visualizes daily completion percentage with a dynamic progress bar.
+* Dynamic Formulas & Conditional Formatting: Automates progress calculation and visually highlights completed habits.
+* Notes: A section for daily reflections, insights, or challenge-related notes.
+
+## How to Use
+* Download:* Clone this repository or download the `Daily Challenges.xlsx` file.
+* Open: Open the `.xlsx` file in Microsoft Excel (or compatible spreadsheet software).
+* Navigate: Use the sheet tabs at the bottom to switch between the Dashboard, Daily Tracker, Habit List, and Notes.
+* Input Data:
+    * Start by listing all the habits you want to track on the "Habit List" sheet.
+    * On the "Daily Tracker" sheet, enter the date for each day.
+    * Mark habits as complete for each day by entering "X" (or "Done") in the corresponding cells.
+    * Use the "Notes" sheet for any personal reflections or observations.
+* Dashboard Overview: The "Dashboard" sheet will automatically update to show your overall progress.
+
+## Technologies Used
+* Microsoft Excel
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
