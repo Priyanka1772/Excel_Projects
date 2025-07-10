@@ -1,0 +1,34 @@
+## Event Planner and Timeline - MS Excel Project
+* This repository contains a dynamic and comprehensive Event Planner and Timeline spreadsheet built using Microsoft Excel. 
+* This project is designed to help users plan and manage every aspect of an event, from budgeting and guest lists to scheduling and vendor management. 
+* It encourages creativity, organization, and problem-solving within a real-world context, making it an ideal tool for aspiring event managers or anyone needing to organize a complex event.
+*This project is adaptable for various age groups and educational levels, providing a practical application of spreadsheet skills for real-world event management.*
+
+## Features
+* Dashboard: Provides a high-level overview of event progress, including task completion, guest RSVP status, and budget health.
+* Event Details: Centralized location for all core event information (name, date, venue, etc.).
+* Agenda/Timeline: A chronological breakdown of event activities, perfect for managing the flow of the event day.
+* Checklist: A robust task manager with due dates, status tracking (Not Started, In Progress, Completed, Overdue), and priority levels, including dynamic "Days Left / Overdue" calculation.
+* Guest List: Efficiently manage invitees, track their contact details, and monitor RSVP statuses (Invited, Confirmed, Declined, Pending).
+* Budget: Comprehensive financial tracking with estimated vs. actual costs, expense categories, and a live remaining budget calculation.
+* Key Contacts: A dedicated directory for all important vendors, suppliers, and personnel.
+* Dynamic Formulas & Conditional Formatting: Leverages Excel's powerful functions for automation and visual cues to highlight critical information (e.g., overdue tasks, budget alerts).
+
+## How to Use
+* Download: Clone this repository or download the `Event_Planner.xlsx` file.
+* Open: Open the `.xlsx` file in Microsoft Excel (or compatible spreadsheet software).
+* Navigate: Use the sheet tabs at the bottom to switch between the various planning sections.
+* Input Data:
+    * Start by filling in your event's basic details on the "Event Details" sheet.
+    * Define your agenda on the "Agenda/Timeline" sheet.
+    * Add all necessary tasks to the "Checklist" sheet, utilizing the dropdowns for Status and Priority.
+    * Populate your "Guest List" and update their RSVP status.
+    * Enter your estimated and actual costs on the "Budget" sheet.
+    * Record important contact information on the "Key Contacts" sheet.
+* Dashboard Overview: The "Dashboard" sheet will automatically update with key summaries based on your entries across all sheets.
+
+## Technologies Used
+* Microsoft Excel
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
