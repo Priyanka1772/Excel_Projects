@@ -1,0 +1,33 @@
+## Bike Sales Analysis using Advanced Excel
+
+## Project Overview
+* This project analyzes customer demographics and purchasing behavior to uncover key drivers behind bike sales.
+* Built using Advanced Excel, the dashboard transforms raw customer data into actionable business insights.
+* The project demonstrates strong analytical thinking, data modeling, and dashboard design skills.
+
+## Features
+* Interactive Dashboard: Visualizes bike purchases across income levels, age groups, commute distance, and gender.
+* Pivot Table Analysis: Enables dynamic exploration of sales trends and customer segments.
+* KPI Tracking: Highlights average income and purchase distribution across demographics.
+* Slicers & Filters: Allows users to drill down into specific customer segments.
+
+## Technologies Used
+* Microsoft Excel
+* Pivot Tables & Pivot Charts
+* Advanced Excel Formulas
+* Data Cleaning & Preparation Techniques
+
+## Key Skills Demonstrated
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Pivot Table & Dashboard Design
+* Business Insight Generation
+* Data Storytelling
+
+## How To Access
+* The Excel (.xlsx) file for this project has been uploaded to this repository.
+* Download the file and open it using Microsoft Excel.
+* Use the slicers and interactive elements to explore customer segments and sales patterns.
+
+## LinkedIn Post Link
+[--  Link to  be  inserted --]
